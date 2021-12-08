@@ -1,5 +1,4 @@
 # Project: Dimension Reduction
-## Team Endgame: Jaskirat Singh (u7019589) and Quan Dao Minh (u7236134) and Sneha Bahl (u7006861)
 
 ## Instruction to run download dataset
 1. Create a folder called **data**
